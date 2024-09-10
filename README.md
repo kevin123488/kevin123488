@@ -5,4 +5,3 @@ email: <a href="mailto:kevin12348878@gmail.com" target="_blank"><img src="https:
 <br/>
 blog: https://hobbyloggle.tistory.com
 <br/>
-portfolio: https://www.notion.so/9bba7735e3a14aa0b783847a263ba50e
